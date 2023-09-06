@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects</title>
+</head>
+<body>
+    <header>
+        <h1>Projects</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Current Projects</h2>
+        <p>This is a list of current projects I am working on</p>
+            <h3>Constraining Field of View for a Visual Search Task</h3>
+                <p> The aim of this project is to empirically measure the effects of constraining field 
+                of view in virtual reality during a serialized visual search task. The main variables
+                of interest are search time, total head movement and degree of field of view constriction. 
+                We hope to discover how long artifacts of a constrained field of view (such as excessive 
+                head movements and extended search times) persist after the constraint is removed. 
+                This will give us insight into whether these artifacts of a constrained field of view 
+                reach extinction, or whether they persist even after the constraint has been removed.</p>
+                <p>Learn more about this project on the official website:</p>
+                <p><a href="https://osf.io/ztg2k/wiki/home/" target="_blank">Visit Project Website</a></p>
+        
+            <h3>Perceptual Span in Schizotypy: A Virtual Reality experiment </h3>
+                <p>This experiment aims to investigate whether there are any significant differences in distributed visual attention (perceptual span) 
+                    in VR, as opposed to the more traditional training method of a computer screen.
+                    A dual-attention task has been developed based upon an existing, computer-based paradigm (Ryan, Keane & Wallis, 2019). 
+                    By administering this task in both VR and on a computer screen, we hope to discover any differences in perceptual span across the two modalities.
+                    People with schizophrenia have been shown to have various impairments in how they process visual information, and show deficits in visual attention 
+                    (Fuller et al., 2006). The personality dimensions underlying schizophrenia can also be seen in non-clinical populations of schizotypy. Individuals 
+                    who exhibit more schizotypal traits perform significantly worse on perceptual (Ettinger et al., 2015) and attentional tasks (Lenzenwegger, Cornblatt & Putnick, 1991). 
+                    Therefore, if participants higher in trait schizotypy perform significantly worse, this provides validity to our dual-attention task.</p>
+                <p> This project is in review </p>
+                <p>Learn more about this project on the official website:</p>
+                <p><a href="https://osf.io/jyhb2/" target="_blank">Visit Project Website</a></p>
+        
+            <h3>Judging Emotion Across Depth Planes in Virtual Reality</h3>
+                <p> This experiment aims to explore differences in response times when emotional faces are presented at different depth planes in virtual reality</p>
+
+            <h3> MoodJumper - A Virtual Reality Game to Assess Depressive Symptoms </h3>
+            <h3> How Visual Embellishments in Virtual Reality Effect Learning Outcomes </h3>
+
+    </section>
+
+    <section>
+        <h2>Past Projects</h2>
+        <p>Projects I have finished!</p>
+            <h3> Seeing Is Believing: How Media Type Effects Truth Judgements </h3>
+
+    </section>
+
+    <!-- Add more project sections as needed -->
+
+    <footer>
+        <p>&copy; 2023 Kaitlin Moat</p>
+    </footer>
+</body>
+</html>
