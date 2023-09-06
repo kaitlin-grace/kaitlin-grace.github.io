@@ -1,1 +1,1 @@
-# Kait-Grace.github.io
+# kaitlin-grace.github.io
