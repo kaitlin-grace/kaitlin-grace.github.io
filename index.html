@@ -12,18 +12,12 @@
             padding: 0;
         }
         
-        .content-container,
-        section,
-        .image-column {
-            min-height: 100vh; /* Ensure full viewport height */
-        }
-        
         .content-container {
         display: flex;
         }
 
         section {
-            width: 50%;
+            flex-grow: 1;
             padding: 20px;
             margin: 20px;
             border-radius: 5px;
@@ -31,8 +25,7 @@
         }
 
         .image-column {
-            width: 50%;
-            text-align: center;
+            text-align: right;
             padding: 20px;
         }
         
